@@ -1,0 +1,10 @@
+.ham_menu_nav{
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+    padding-left: 40px;
+    padding-top: 20px;
+    z-index: -10;
+
+}
